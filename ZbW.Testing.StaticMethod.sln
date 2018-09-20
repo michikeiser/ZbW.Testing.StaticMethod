@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZbW.Testing.StaticMethod", "ZbW.Testing.StaticMethod\ZbW.Testing.StaticMethod.csproj", "{04702B07-BD04-4313-B4DE-7F502FCC060C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZbW.Testing.StaticMethod.UnitTests", "ZbW.Testing.StaticMethod.UnitTests\ZbW.Testing.StaticMethod.UnitTests.csproj", "{DB44B714-32F4-470D-A8E6-EAD8AFF617D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04702B07-BD04-4313-B4DE-7F502FCC060C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04702B07-BD04-4313-B4DE-7F502FCC060C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04702B07-BD04-4313-B4DE-7F502FCC060C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04702B07-BD04-4313-B4DE-7F502FCC060C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB44B714-32F4-470D-A8E6-EAD8AFF617D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB44B714-32F4-470D-A8E6-EAD8AFF617D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB44B714-32F4-470D-A8E6-EAD8AFF617D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB44B714-32F4-470D-A8E6-EAD8AFF617D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCBF40C2-4FED-441C-924C-FAEF5A8A4872}
+	EndGlobalSection
+EndGlobal
